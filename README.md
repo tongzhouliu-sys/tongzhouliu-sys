@@ -2,6 +2,7 @@
 
 ### CEO & Founder | MSBA Candidate at Fairfield University | Cloud Infrastructure Expert
 
+With over 20 years of experience in the cloud computing and digital infrastructure industry, I currently focus on integrating Business Analytics with AI automation technologies to build a "digital workforce" ecosystem using the OpenClaw framework.
 拥有 20 余年云计算与数字基础设施行业经验。目前专注于将商业分析（Business Analytics）与 AI 自动化技术结合，利用 OpenClaw 框架构建“数字员工”体系。
 
 ---
@@ -10,7 +11,11 @@
 ### Fairfield University | Master of Science in Business Analytics (MSBA)
 *Expected Graduation: August 2026*
 
-**对 Fairfield University 的认可：**
+** Fairfield University ：**
+This university has offered me a brand-new perspective and dimension of knowledge. It has propelled me to reshape my way of thinking from **underlying infrastructure management** to **data-driven business decision-making**.
+- **Perspective Expansion**: I have gained an in-depth understanding of data assets serving as a core variable in the governance of multinational enterprises.
+- **Knowledge Iteration**: I have systematically mastered the application of business statistics, machine learning and data visualization in real-world business scenarios.
+
 这所大学为我提供了全新的视野与知识维度。它促使我完成了从**底层基础设施管理**向**数据驱动商业决策**的思维重塑。
 - **视野拓展**：深入理解了数据资产在跨国企业治理中的核心变量作用。
 - **知识迭代**：系统化掌握了商业统计、机器学习及数据可视化在实际业务场景中的应用。
