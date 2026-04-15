@@ -3,6 +3,7 @@
 ### CEO & Founder | MSBA Candidate at Fairfield University | Cloud Infrastructure Expert
 
 With over 20 years of experience in the cloud computing and digital infrastructure industry, I currently focus on integrating Business Analytics with AI automation technologies to build a "digital workforce" ecosystem using the OpenClaw framework.
+
 拥有 20 余年云计算与数字基础设施行业经验。目前专注于将商业分析（Business Analytics）与 AI 自动化技术结合，利用 OpenClaw 框架构建“数字员工”体系。
 
 ---
