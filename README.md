@@ -1,4 +1,4 @@
-# Hi there, I'm LIU TONGZHOU (刘统洲) 👋
+# Hi there, I'm LIU TONGZHOU (刘统洲) 
 
 ### CEO & Founder | MSBA Candidate at Fairfield University | Cloud Infrastructure Expert
 
